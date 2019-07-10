@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>470710031013-r4l4s6vecudsgsuvuf85qrn7a9cpahs8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.470710031013-r4l4s6vecudsgsuvuf85qrn7a9cpahs8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAj-Rv7hGDBUtZxHflvYRNs2neOO0lFNk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>470710031013</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.weekend.alexrules123</string>
+	<key>PROJECT_ID</key>
+	<string>coredata-283af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coredata-283af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:470710031013:ios:fd4a8e23f7c7bc80</string>
+	<key>DATABASE_URL</key>
+	<string>https://coredata-283af.firebaseio.com</string>
+</dict>
+</plist>
